@@ -1,0 +1,17 @@
+#java project output (a part of it)
+
+Welcome to the Beat It Game!
+Guess a number between 1 and 100.
+You have 10 attempts.
+Too low! You have 9 attempts left.
+Too low! You have 8 attempts left.
+Please enter a valid number.
+Too high! You have 7 attempts left.
+Too low! You have 6 attempts left.
+Too high! You have 5 attempts left.
+Too high! You have 4 attempts left.
+Too high! You have 3 attempts left.
+Too high! You have 2 attempts left.
+Too high! You have 1 attempts left.
+Sorry! You've used all your attempts. The number was 63.
+Time taken: 72 seconds.
